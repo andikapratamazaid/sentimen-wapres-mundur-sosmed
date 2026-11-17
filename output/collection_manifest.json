@@ -1,0 +1,120 @@
+{
+  "collection_date": "2026-11-17",
+  "tool": "social.search (layanan pencarian sosial)",
+  "source_files_used": [
+    {
+      "file": "zeitgeist-0b014bbf-07a6-4716-b7bd-84bc959112b9.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-0bb79e69-65f4-4c0d-9c51-b7a44ed05aa8.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-0ffb8d07-fc32-4858-851e-02ac3aec0cf2.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-10055647-59e4-4502-8520-773559e636c2.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-1966d8ed-72f7-4bf9-84de-3c9b0d5c17fe.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-31740739-3e60-4426-8974-1a7c1a3da9b5.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-33fd8db3-e11e-4eee-97c6-33c7054b1991.xml",
+      "posts_parsed": 40
+    },
+    {
+      "file": "zeitgeist-343bdc58-5745-41fb-9697-74bc135a7b1a.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-3bb50166-d0ad-4449-a93b-2a293fc4855a.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-5582affd-8ecd-4405-8c86-85c014b7c63b.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-58ab6289-375f-4632-94b7-7e36d89af333.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-5e00fddd-9aed-44c2-987f-1b39b0da1f2f.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-5ee13c62-79c0-4ab5-ab0a-b50a165f999a.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-67da5ecd-f5a1-4ab2-83cf-5e713a694b4f.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-7c019c8c-03b0-4f44-99b8-24f718d9cc94.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-7edbae43-1bc2-4481-a400-a545685a295c.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-7ff4e6c2-ba2c-4c53-8dfb-4cc217f6c1ec.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-8c862751-9aca-4e65-b5f0-ca6a2955e6e9.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-952095e3-4c0b-4080-9711-df08221ffbde.xml",
+      "posts_parsed": 29
+    },
+    {
+      "file": "zeitgeist-9aa60714-79b0-4d65-a3db-c341c911c466.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-b2ce1b6d-32e7-475f-9261-53e706a3f8de.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-c9613329-d0c2-4dfb-9afb-dd62042fe5bb.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-d28e21c6-6668-4419-a796-aa46f0572ab3.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-d44c3b5d-c8d6-4c94-ac8e-e7d8e5b618ac.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-d7d189ae-e0e0-4a70-8870-0e1562188f05.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-ea791be9-ed65-4b2d-ac1b-f63bf491716f.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-ef31fae1-44a1-448f-b102-ab70f330461b.xml",
+      "posts_parsed": 50
+    },
+    {
+      "file": "zeitgeist-f7e44d8d-728d-4fb8-88bd-15debf7fd129.xml",
+      "posts_parsed": 50
+    }
+  ],
+  "total_raw_posts": 1369,
+  "rate_limit_note": "Tiga panggilan terakhir berhenti karena batas laju HTTP 429 dan tidak dicoba ulang."
+}

@@ -1,0 +1,2038 @@
+{
+ "project": "Sentimen Publik: Analisis Media Sosial Pengunduran Diri Wapres",
+ "collection_date": "2026-11-17",
+ "total_posts_raw": 1369,
+ "total_posts_after_dedup": 1201,
+ "posts_per_platform_raw": {
+  "facebook": 484,
+  "threads": 453,
+  "instagram": 432,
+  "tiktok": 0
+ },
+ "posts_per_platform": {
+  "instagram": 383,
+  "facebook": 413,
+  "threads": 405
+ },
+ "posts_tiktok": 0,
+ "unique_users": 857,
+ "date_range_wib": [
+  "2026-05-04",
+  "2026-11-17"
+ ],
+ "sentiment_overall": {
+  "positif": {
+   "count": 205,
+   "share_pct": 17.07
+  },
+  "negatif": {
+   "count": 431,
+   "share_pct": 35.89
+  },
+  "netral": {
+   "count": 565,
+   "share_pct": 47.04
+  }
+ },
+ "sentiment_per_platform": {
+  "facebook": {
+   "positif": {
+    "count": 103,
+    "share_pct": 24.94
+   },
+   "negatif": {
+    "count": 180,
+    "share_pct": 43.58
+   },
+   "netral": {
+    "count": 130,
+    "share_pct": 31.48
+   }
+  },
+  "instagram": {
+   "positif": {
+    "count": 67,
+    "share_pct": 17.49
+   },
+   "negatif": {
+    "count": 148,
+    "share_pct": 38.64
+   },
+   "netral": {
+    "count": 168,
+    "share_pct": 43.86
+   }
+  },
+  "threads": {
+   "positif": {
+    "count": 35,
+    "share_pct": 8.64
+   },
+   "negatif": {
+    "count": 103,
+    "share_pct": 25.43
+   },
+   "netral": {
+    "count": 267,
+    "share_pct": 65.93
+   }
+  }
+ },
+ "daily": {
+  "2026-05-04": {
+   "volume": 1,
+   "positif": 0,
+   "negatif": 1,
+   "netral": 0,
+   "negatif_share_pct": 100.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-05-06": {
+   "volume": 5,
+   "positif": 2,
+   "negatif": 2,
+   "netral": 1,
+   "negatif_share_pct": 40.0,
+   "positif_share_pct": 40.0
+  },
+  "2026-05-08": {
+   "volume": 3,
+   "positif": 0,
+   "negatif": 2,
+   "netral": 1,
+   "negatif_share_pct": 66.67,
+   "positif_share_pct": 0.0
+  },
+  "2026-05-10": {
+   "volume": 4,
+   "positif": 2,
+   "negatif": 2,
+   "netral": 0,
+   "negatif_share_pct": 50.0,
+   "positif_share_pct": 50.0
+  },
+  "2026-05-11": {
+   "volume": 6,
+   "positif": 1,
+   "negatif": 1,
+   "netral": 4,
+   "negatif_share_pct": 16.67,
+   "positif_share_pct": 16.67
+  },
+  "2026-05-12": {
+   "volume": 3,
+   "positif": 3,
+   "negatif": 0,
+   "netral": 0,
+   "negatif_share_pct": 0.0,
+   "positif_share_pct": 100.0
+  },
+  "2026-05-13": {
+   "volume": 6,
+   "positif": 1,
+   "negatif": 4,
+   "netral": 1,
+   "negatif_share_pct": 66.67,
+   "positif_share_pct": 16.67
+  },
+  "2026-05-14": {
+   "volume": 2,
+   "positif": 2,
+   "negatif": 0,
+   "netral": 0,
+   "negatif_share_pct": 0.0,
+   "positif_share_pct": 100.0
+  },
+  "2026-05-15": {
+   "volume": 1,
+   "positif": 0,
+   "negatif": 0,
+   "netral": 1,
+   "negatif_share_pct": 0.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-05-16": {
+   "volume": 1,
+   "positif": 0,
+   "negatif": 1,
+   "netral": 0,
+   "negatif_share_pct": 100.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-05-18": {
+   "volume": 5,
+   "positif": 0,
+   "negatif": 4,
+   "netral": 1,
+   "negatif_share_pct": 80.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-05-19": {
+   "volume": 1,
+   "positif": 0,
+   "negatif": 0,
+   "netral": 1,
+   "negatif_share_pct": 0.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-05-20": {
+   "volume": 2,
+   "positif": 1,
+   "negatif": 1,
+   "netral": 0,
+   "negatif_share_pct": 50.0,
+   "positif_share_pct": 50.0
+  },
+  "2026-05-21": {
+   "volume": 3,
+   "positif": 0,
+   "negatif": 2,
+   "netral": 1,
+   "negatif_share_pct": 66.67,
+   "positif_share_pct": 0.0
+  },
+  "2026-05-22": {
+   "volume": 1,
+   "positif": 1,
+   "negatif": 0,
+   "netral": 0,
+   "negatif_share_pct": 0.0,
+   "positif_share_pct": 100.0
+  },
+  "2026-05-24": {
+   "volume": 2,
+   "positif": 1,
+   "negatif": 1,
+   "netral": 0,
+   "negatif_share_pct": 50.0,
+   "positif_share_pct": 50.0
+  },
+  "2026-05-25": {
+   "volume": 6,
+   "positif": 0,
+   "negatif": 6,
+   "netral": 0,
+   "negatif_share_pct": 100.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-05-26": {
+   "volume": 3,
+   "positif": 0,
+   "negatif": 2,
+   "netral": 1,
+   "negatif_share_pct": 66.67,
+   "positif_share_pct": 0.0
+  },
+  "2026-05-27": {
+   "volume": 3,
+   "positif": 1,
+   "negatif": 2,
+   "netral": 0,
+   "negatif_share_pct": 66.67,
+   "positif_share_pct": 33.33
+  },
+  "2026-05-28": {
+   "volume": 1,
+   "positif": 0,
+   "negatif": 1,
+   "netral": 0,
+   "negatif_share_pct": 100.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-05-29": {
+   "volume": 2,
+   "positif": 0,
+   "negatif": 1,
+   "netral": 1,
+   "negatif_share_pct": 50.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-05-30": {
+   "volume": 6,
+   "positif": 1,
+   "negatif": 4,
+   "netral": 1,
+   "negatif_share_pct": 66.67,
+   "positif_share_pct": 16.67
+  },
+  "2026-05-31": {
+   "volume": 2,
+   "positif": 0,
+   "negatif": 1,
+   "netral": 1,
+   "negatif_share_pct": 50.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-09-28": {
+   "volume": 1,
+   "positif": 0,
+   "negatif": 0,
+   "netral": 1,
+   "negatif_share_pct": 0.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-09-29": {
+   "volume": 1,
+   "positif": 0,
+   "negatif": 1,
+   "netral": 0,
+   "negatif_share_pct": 100.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-09-30": {
+   "volume": 1,
+   "positif": 0,
+   "negatif": 0,
+   "netral": 1,
+   "negatif_share_pct": 0.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-10-02": {
+   "volume": 2,
+   "positif": 0,
+   "negatif": 1,
+   "netral": 1,
+   "negatif_share_pct": 50.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-10-06": {
+   "volume": 5,
+   "positif": 0,
+   "negatif": 4,
+   "netral": 1,
+   "negatif_share_pct": 80.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-10-07": {
+   "volume": 8,
+   "positif": 2,
+   "negatif": 3,
+   "netral": 3,
+   "negatif_share_pct": 37.5,
+   "positif_share_pct": 25.0
+  },
+  "2026-10-08": {
+   "volume": 6,
+   "positif": 0,
+   "negatif": 5,
+   "netral": 1,
+   "negatif_share_pct": 83.33,
+   "positif_share_pct": 0.0
+  },
+  "2026-10-09": {
+   "volume": 4,
+   "positif": 1,
+   "negatif": 3,
+   "netral": 0,
+   "negatif_share_pct": 75.0,
+   "positif_share_pct": 25.0
+  },
+  "2026-10-10": {
+   "volume": 6,
+   "positif": 0,
+   "negatif": 5,
+   "netral": 1,
+   "negatif_share_pct": 83.33,
+   "positif_share_pct": 0.0
+  },
+  "2026-10-11": {
+   "volume": 2,
+   "positif": 0,
+   "negatif": 2,
+   "netral": 0,
+   "negatif_share_pct": 100.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-10-12": {
+   "volume": 6,
+   "positif": 1,
+   "negatif": 3,
+   "netral": 2,
+   "negatif_share_pct": 50.0,
+   "positif_share_pct": 16.67
+  },
+  "2026-10-15": {
+   "volume": 1,
+   "positif": 1,
+   "negatif": 0,
+   "netral": 0,
+   "negatif_share_pct": 0.0,
+   "positif_share_pct": 100.0
+  },
+  "2026-10-17": {
+   "volume": 4,
+   "positif": 2,
+   "negatif": 1,
+   "netral": 1,
+   "negatif_share_pct": 25.0,
+   "positif_share_pct": 50.0
+  },
+  "2026-10-19": {
+   "volume": 1,
+   "positif": 0,
+   "negatif": 1,
+   "netral": 0,
+   "negatif_share_pct": 100.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-10-20": {
+   "volume": 12,
+   "positif": 8,
+   "negatif": 3,
+   "netral": 1,
+   "negatif_share_pct": 25.0,
+   "positif_share_pct": 66.67
+  },
+  "2026-10-21": {
+   "volume": 11,
+   "positif": 1,
+   "negatif": 3,
+   "netral": 7,
+   "negatif_share_pct": 27.27,
+   "positif_share_pct": 9.09
+  },
+  "2026-10-22": {
+   "volume": 4,
+   "positif": 2,
+   "negatif": 1,
+   "netral": 1,
+   "negatif_share_pct": 25.0,
+   "positif_share_pct": 50.0
+  },
+  "2026-10-23": {
+   "volume": 3,
+   "positif": 0,
+   "negatif": 1,
+   "netral": 2,
+   "negatif_share_pct": 33.33,
+   "positif_share_pct": 0.0
+  },
+  "2026-10-24": {
+   "volume": 6,
+   "positif": 2,
+   "negatif": 0,
+   "netral": 4,
+   "negatif_share_pct": 0.0,
+   "positif_share_pct": 33.33
+  },
+  "2026-10-25": {
+   "volume": 1,
+   "positif": 0,
+   "negatif": 0,
+   "netral": 1,
+   "negatif_share_pct": 0.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-10-26": {
+   "volume": 4,
+   "positif": 0,
+   "negatif": 2,
+   "netral": 2,
+   "negatif_share_pct": 50.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-10-27": {
+   "volume": 9,
+   "positif": 2,
+   "negatif": 2,
+   "netral": 5,
+   "negatif_share_pct": 22.22,
+   "positif_share_pct": 22.22
+  },
+  "2026-10-28": {
+   "volume": 7,
+   "positif": 0,
+   "negatif": 4,
+   "netral": 3,
+   "negatif_share_pct": 57.14,
+   "positif_share_pct": 0.0
+  },
+  "2026-10-29": {
+   "volume": 12,
+   "positif": 1,
+   "negatif": 9,
+   "netral": 2,
+   "negatif_share_pct": 75.0,
+   "positif_share_pct": 8.33
+  },
+  "2026-10-30": {
+   "volume": 45,
+   "positif": 4,
+   "negatif": 12,
+   "netral": 29,
+   "negatif_share_pct": 26.67,
+   "positif_share_pct": 8.89
+  },
+  "2026-10-31": {
+   "volume": 32,
+   "positif": 6,
+   "negatif": 14,
+   "netral": 12,
+   "negatif_share_pct": 43.75,
+   "positif_share_pct": 18.75
+  },
+  "2026-11-01": {
+   "volume": 9,
+   "positif": 1,
+   "negatif": 3,
+   "netral": 5,
+   "negatif_share_pct": 33.33,
+   "positif_share_pct": 11.11
+  },
+  "2026-11-02": {
+   "volume": 18,
+   "positif": 1,
+   "negatif": 6,
+   "netral": 11,
+   "negatif_share_pct": 33.33,
+   "positif_share_pct": 5.56
+  },
+  "2026-11-03": {
+   "volume": 4,
+   "positif": 0,
+   "negatif": 2,
+   "netral": 2,
+   "negatif_share_pct": 50.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-11-05": {
+   "volume": 1,
+   "positif": 0,
+   "negatif": 0,
+   "netral": 1,
+   "negatif_share_pct": 0.0,
+   "positif_share_pct": 0.0
+  },
+  "2026-11-06": {
+   "volume": 1,
+   "positif": 1,
+   "negatif": 0,
+   "netral": 0,
+   "negatif_share_pct": 0.0,
+   "positif_share_pct": 100.0
+  },
+  "2026-11-07": {
+   "volume": 2,
+   "positif": 1,
+   "negatif": 1,
+   "netral": 0,
+   "negatif_share_pct": 50.0,
+   "positif_share_pct": 50.0
+  },
+  "2026-11-09": {
+   "volume": 5,
+   "positif": 2,
+   "negatif": 1,
+   "netral": 2,
+   "negatif_share_pct": 20.0,
+   "positif_share_pct": 40.0
+  },
+  "2026-11-10": {
+   "volume": 128,
+   "positif": 18,
+   "negatif": 52,
+   "netral": 58,
+   "negatif_share_pct": 40.62,
+   "positif_share_pct": 14.06
+  },
+  "2026-11-11": {
+   "volume": 94,
+   "positif": 19,
+   "negatif": 38,
+   "netral": 37,
+   "negatif_share_pct": 40.43,
+   "positif_share_pct": 20.21
+  },
+  "2026-11-12": {
+   "volume": 273,
+   "positif": 45,
+   "negatif": 99,
+   "netral": 129,
+   "negatif_share_pct": 36.26,
+   "positif_share_pct": 16.48
+  },
+  "2026-11-13": {
+   "volume": 131,
+   "positif": 24,
+   "negatif": 42,
+   "netral": 65,
+   "negatif_share_pct": 32.06,
+   "positif_share_pct": 18.32
+  },
+  "2026-11-14": {
+   "volume": 101,
+   "positif": 18,
+   "negatif": 28,
+   "netral": 55,
+   "negatif_share_pct": 27.72,
+   "positif_share_pct": 17.82
+  },
+  "2026-11-15": {
+   "volume": 63,
+   "positif": 12,
+   "negatif": 23,
+   "netral": 28,
+   "negatif_share_pct": 36.51,
+   "positif_share_pct": 19.05
+  },
+  "2026-11-16": {
+   "volume": 79,
+   "positif": 11,
+   "negatif": 13,
+   "netral": 55,
+   "negatif_share_pct": 16.46,
+   "positif_share_pct": 13.92
+  },
+  "2026-11-17": {
+   "volume": 29,
+   "positif": 3,
+   "negatif": 5,
+   "netral": 21,
+   "negatif_share_pct": 17.24,
+   "positif_share_pct": 10.34
+  }
+ },
+ "engagement_by_sentiment": {
+  "positif": {
+   "likes": {
+    "mean": 5341.16,
+    "median": 450.0,
+    "n": 194
+   },
+   "comments": {
+    "mean": 732.02,
+    "median": 100.0,
+    "n": 179
+   },
+   "total_likes": 1036185,
+   "total_comments": 131031
+  },
+  "negatif": {
+   "likes": {
+    "mean": 9798.9,
+    "median": 1300.0,
+    "n": 417
+   },
+   "comments": {
+    "mean": 825.36,
+    "median": 230.0,
+    "n": 396
+   },
+   "total_likes": 4086142,
+   "total_comments": 326843
+  },
+  "netral": {
+   "likes": {
+    "mean": 2337.68,
+    "median": 19.0,
+    "n": 458
+   },
+   "comments": {
+    "mean": 196.39,
+    "median": 8.0,
+    "n": 335
+   },
+   "total_likes": 1070656,
+   "total_comments": 65789
+  }
+ },
+ "top_posts_per_platform": {
+  "facebook": [
+   {
+    "url": "https://www.facebook.com/reel/1956982675670663",
+    "date_wib": "2026-11-12",
+    "likes": 180000,
+    "comments": 27000,
+    "sentiment_label": "positif",
+    "summary_excerpt": "The video features Indonesian Senator DPD/MPR RI Dr. Arya Wedakarna (AWK), filmed inside a moving car while wearing a dark blue batik shirt. An on-screen text overlay states he wil"
+   },
+   {
+    "url": "https://www.facebook.com/PrabowoSubianto/posts/pfbid02pf72s7z29m7ba4iviPaqreLbFkgNB5xjQBPRLNU2WL4Jr8DTo1HEEQ8UCE5iF3Wkl",
+    "date_wib": "2026-11-12",
+    "likes": 110000,
+    "comments": 28000,
+    "sentiment_label": "negatif",
+    "summary_excerpt": "This three-slide carousel documents a formal interaction between Indonesian President Prabowo Subianto and a younger man in a dark business suit. Slide 0 shows the two men in a clo"
+   },
+   {
+    "url": "https://www.facebook.com/BrilioVideoIndonesia/posts/pfbid0z9XHvrBuD14T3avAcuqGP4VtZ6svJq8sjMuCd1ry3tkChWiB4LrYxa6xQgqaddWJl",
+    "date_wib": "2026-11-12",
+    "likes": 50000,
+    "comments": 4900,
+    "sentiment_label": "negatif",
+    "summary_excerpt": "The image shows a man in a white button-down shirt and white Nike cap sitting next to a woman in dark clothing with an embroidered jacket; both are looking at a smartphone he is ho"
+   },
+   {
+    "url": "https://www.facebook.com/reel/1134997359286243",
+    "date_wib": "2026-11-12",
+    "likes": 48000,
+    "comments": 5000,
+    "sentiment_label": "negatif",
+    "summary_excerpt": "A man wearing a black cap, glasses, and black shirt speaks directly to camera outdoors, holding a small microphone. Overlaid text and his speech deliver a political commentary in I"
+   },
+   {
+    "url": "https://www.facebook.com/reel/1649069583458959",
+    "date_wib": "2026-10-02",
+    "likes": 44000,
+    "comments": 7900,
+    "sentiment_label": "netral",
+    "summary_excerpt": "A man wearing a red shirt with a bull graphic and a red head covering speaks directly to the camera in front of a painting. He discusses a Constitutional Court (MK) hearing held on"
+   }
+  ],
+  "instagram": [
+   {
+    "url": "https://www.instagram.com/reel/Dfo-maWT5Wj",
+    "date_wib": "2026-11-12",
+    "likes": 400000,
+    "comments": 2000,
+    "sentiment_label": "negatif",
+    "summary_excerpt": "The video provides a behind-the-scenes look inside an Indonesian television newsroom (SCTV) during breaking news coverage of Vice President Gibran Rakabuming Raka. An on-screen tex"
+   },
+   {
+    "url": "https://www.instagram.com/reel/Dft7uHglBaN",
+    "date_wib": "2026-11-14",
+    "likes": 380000,
+    "comments": 2700,
+    "sentiment_label": "negatif",
+    "summary_excerpt": "This video, titled 'Gibran Core: Sehari Setelah Mengundurkan Diri' (Gibran Core: One Day After Resigning), documents Indonesian Vice President Gibran Rakabuming Raka walking throug"
+   },
+   {
+    "url": "https://www.instagram.com/p/Dfo6vE_Gq7V",
+    "date_wib": "2026-11-12",
+    "likes": 360000,
+    "comments": 4300,
+    "sentiment_label": "netral",
+    "summary_excerpt": "This nine-slide carousel documents the activities of Indonesian public figure Kaesang Pangarep and his associates across multiple settings. Slide 0 shows him in a suit with a red t"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DfjgizgCI_g",
+    "date_wib": "2026-11-10",
+    "likes": 230000,
+    "comments": 4700,
+    "sentiment_label": "negatif",
+    "summary_excerpt": "A man films himself in a close-up selfie while seated on an airplane, speaking directly to the camera in a mix of English and Indonesian. He states he is on his way to Kediri for a"
+   },
+   {
+    "url": "https://www.instagram.com/reel/Dfolp0qosm8",
+    "date_wib": "2026-11-12",
+    "likes": 210000,
+    "comments": 830,
+    "sentiment_label": "negatif",
+    "summary_excerpt": "The video captures the arrival of Indonesian Vice President Gibran Rakabuming Raka at the MPR/DPR building in Jakarta. A black Toyota Fortuner SUV pulls into the driveway without a"
+   }
+  ],
+  "threads": [
+   {
+    "url": "https://www.threads.com/@mamayi.tacia/post/DfsG-ctnTWS",
+    "date_wib": "2026-11-13",
+    "likes": 150000,
+    "comments": 2100,
+    "sentiment_label": "netral",
+    "summary_excerpt": "The author posts a short statement in Indonesian expressing approval that a group characterized as a mafia nest has been impacted. The phrasing uses a rhetorical question to imply "
+   },
+   {
+    "url": "https://www.threads.com/@pandji.pragiwaksono/post/DfkEmxBEX63",
+    "date_wib": "2026-11-10",
+    "likes": 59000,
+    "comments": 980,
+    "sentiment_label": "negatif",
+    "summary_excerpt": "The author reacts with astonishment to news from Indonesia, stating they went to sleep and woke up to find that the vice president had submitted a resignation. The tone is informal"
+   },
+   {
+    "url": "https://www.threads.com/@arfzulfikar/post/Dfvqn5HGt-p",
+    "date_wib": "2026-11-15",
+    "likes": 37000,
+    "comments": 220,
+    "sentiment_label": "negatif",
+    "summary_excerpt": "The image is a screenshot of a news broadcast segment labeled \"FILE\" with a lower-third graphic reading \"INDONESIA POLITICS\" and the text \"Gibran is son of ex-president Widodo, who"
+   },
+   {
+    "url": "https://www.threads.com/@abidzaralgfhri/post/DfjrxchEl4Z",
+    "date_wib": "2026-11-10",
+    "likes": 35000,
+    "comments": 920,
+    "sentiment_label": "negatif",
+    "summary_excerpt": "The author posts a short, informal complaint in Indonesian about chats going unanswered, then repeats the name Gibran twice followed by crying emojis to emphasize feelings of disap"
+   },
+   {
+    "url": "https://www.threads.com/@rubendonny/post/Dfm254fk7vG",
+    "date_wib": "2026-11-11",
+    "likes": 34000,
+    "comments": 260,
+    "sentiment_label": "netral",
+    "summary_excerpt": "The author indicates they have watched content described as subtle political leaks and, as a result, now feel they understand the underlying reason why Indonesian public figure Gib"
+   }
+  ]
+ },
+ "validation": {
+  "sample_size": 120,
+  "correct": 63,
+  "accuracy_pct": 52.5,
+  "per_class": {
+   "positif": {
+    "n": 30,
+    "correct": 11,
+    "accuracy_pct": 36.67
+   },
+   "negatif": {
+    "n": 4,
+    "correct": 3,
+    "accuracy_pct": 75.0
+   },
+   "netral": {
+    "n": 86,
+    "correct": 49,
+    "accuracy_pct": 56.98
+   }
+  },
+  "confusion": {
+   "negatif->negatif": 3,
+   "negatif->positif": 1,
+   "netral->negatif": 23,
+   "netral->netral": 49,
+   "netral->positif": 14,
+   "positif->negatif": 12,
+   "positif->netral": 7,
+   "positif->positif": 11
+  }
+ },
+ "polarization_per_platform": {
+  "facebook": {
+   "non_neutral_share_pct": 68.52,
+   "pos_neg_ratio": 0.57,
+   "positif": 103,
+   "negatif": 180,
+   "netral": 130
+  },
+  "instagram": {
+   "non_neutral_share_pct": 56.14,
+   "pos_neg_ratio": 0.45,
+   "positif": 67,
+   "negatif": 148,
+   "netral": 168
+  },
+  "threads": {
+   "non_neutral_share_pct": 34.07,
+   "pos_neg_ratio": 0.34,
+   "positif": 35,
+   "negatif": 103,
+   "netral": 267
+  }
+ },
+ "top_words_overall": [
+  [
+   "gibran",
+   5225
+  ],
+  [
+   "political",
+   2050
+  ],
+  [
+   "president",
+   1798
+  ],
+  [
+   "indonesian",
+   1684
+  ],
+  [
+   "vice",
+   1595
+  ],
+  [
+   "resignation",
+   1291
+  ],
+  [
+   "prabowo",
+   1223
+  ],
+  [
+   "news",
+   945
+  ],
+  [
+   "mpr",
+   830
+  ],
+  [
+   "text",
+   809
+  ],
+  [
+   "tone",
+   795
+  ],
+  [
+   "rakabuming",
+   731
+  ],
+  [
+   "post",
+   698
+  ],
+  [
+   "raka",
+   681
+  ],
+  [
+   "court",
+   616
+  ],
+  [
+   "jokowi",
+   582
+  ],
+  [
+   "overall",
+   571
+  ],
+  [
+   "him",
+   555
+  ],
+  [
+   "dpr",
+   543
+  ],
+  [
+   "letter",
+   505
+  ],
+  [
+   "debate",
+   500
+  ],
+  [
+   "diploma",
+   499
+  ],
+  [
+   "mundur",
+   482
+  ],
+  [
+   "constitutional",
+   459
+  ],
+  [
+   "presidential",
+   452
+  ],
+  [
+   "screen",
+   427
+  ],
+  [
+   "slide",
+   423
+  ],
+  [
+   "shows",
+   423
+  ],
+  [
+   "public",
+   410
+  ],
+  [
+   "resign",
+   399
+  ]
+ ],
+ "top_bigrams_overall": [
+  [
+   "vice president",
+   1190
+  ],
+  [
+   "gibran rakabuming",
+   731
+  ],
+  [
+   "rakabuming raka",
+   677
+  ],
+  [
+   "president gibran",
+   581
+  ],
+  [
+   "overall tone",
+   418
+  ],
+  [
+   "president prabowo",
+   296
+  ],
+  [
+   "vice presidential",
+   296
+  ],
+  [
+   "culture moment",
+   275
+  ],
+  [
+   "gibran resignation",
+   253
+  ],
+  [
+   "supreme court",
+   244
+  ],
+  [
+   "resignation letter",
+   236
+  ],
+  [
+   "indonesian political",
+   234
+  ],
+  [
+   "screen text",
+   225
+  ],
+  [
+   "prabowo subianto",
+   211
+  ],
+  [
+   "constitutional court",
+   194
+  ],
+  [
+   "highly polarized",
+   178
+  ],
+  [
+   "comment section",
+   177
+  ],
+  [
+   "gibran mundur",
+   176
+  ],
+  [
+   "whether gibran",
+   167
+  ],
+  [
+   "origin indonesian",
+   163
+  ]
+ ],
+ "top_by_sentiment": {
+  "positif": {
+   "top_words": [
+    [
+     "political",
+     432
+    ],
+    [
+     "president",
+     387
+    ],
+    [
+     "indonesian",
+     333
+    ],
+    [
+     "vice",
+     298
+    ],
+    [
+     "prabowo",
+     280
+    ],
+    [
+     "news",
+     157
+    ],
+    [
+     "support",
+     145
+    ],
+    [
+     "raka",
+     138
+    ],
+    [
+     "mpr",
+     127
+    ],
+    [
+     "dpr",
+     121
+    ],
+    [
+     "debate",
+     120
+    ],
+    [
+     "constitutional",
+     120
+    ],
+    [
+     "letter",
+     119
+    ],
+    [
+     "court",
+     110
+    ],
+    [
+     "comments",
+     92
+    ]
+   ],
+   "top_bigrams": [
+    [
+     "vice president",
+     234
+    ],
+    [
+     "president prabowo",
+     87
+    ],
+    [
+     "president raka",
+     86
+    ],
+    [
+     "prabowo subianto",
+     63
+    ],
+    [
+     "indonesian political",
+     62
+    ],
+    [
+     "constitutional court",
+     47
+    ],
+    [
+     "vice presidential",
+     45
+    ],
+    [
+     "highly polarized",
+     39
+    ],
+    [
+     "dark suit",
+     36
+    ],
+    [
+     "supreme court",
+     35
+    ]
+   ]
+  },
+  "negatif": {
+   "top_words": [
+    [
+     "political",
+     1055
+    ],
+    [
+     "indonesian",
+     735
+    ],
+    [
+     "president",
+     670
+    ],
+    [
+     "prabowo",
+     626
+    ],
+    [
+     "vice",
+     608
+    ],
+    [
+     "jokowi",
+     416
+    ],
+    [
+     "debate",
+     313
+    ],
+    [
+     "news",
+     310
+    ],
+    [
+     "court",
+     286
+    ],
+    [
+     "diploma",
+     277
+    ],
+    [
+     "raka",
+     262
+    ],
+    [
+     "calls",
+     259
+    ],
+    [
+     "dpr",
+     253
+    ],
+    [
+     "supporters",
+     238
+    ],
+    [
+     "comments",
+     237
+    ]
+   ],
+   "top_bigrams": [
+    [
+     "vice president",
+     446
+    ],
+    [
+     "indonesian political",
+     150
+    ],
+    [
+     "president raka",
+     146
+    ],
+    [
+     "comment section",
+     127
+    ],
+    [
+     "highly polarized",
+     122
+    ],
+    [
+     "vice presidential",
+     113
+    ],
+    [
+     "supreme court",
+     109
+    ],
+    [
+     "constitutional court",
+     99
+    ],
+    [
+     "president prabowo",
+     95
+    ],
+    [
+     "high school",
+     86
+    ]
+   ]
+  },
+  "netral": {
+   "top_words": [
+    [
+     "president",
+     741
+    ],
+    [
+     "vice",
+     689
+    ],
+    [
+     "indonesian",
+     616
+    ],
+    [
+     "political",
+     563
+    ],
+    [
+     "mpr",
+     483
+    ],
+    [
+     "news",
+     478
+    ],
+    [
+     "prabowo",
+     317
+    ],
+    [
+     "raka",
+     281
+    ],
+    [
+     "letter",
+     240
+    ],
+    [
+     "court",
+     220
+    ],
+    [
+     "presidential",
+     189
+    ],
+    [
+     "dpr",
+     169
+    ],
+    [
+     "screen",
+     164
+    ],
+    [
+     "formal",
+     161
+    ],
+    [
+     "white",
+     158
+    ]
+   ],
+   "top_bigrams": [
+    [
+     "vice president",
+     510
+    ],
+    [
+     "president raka",
+     161
+    ],
+    [
+     "vice presidential",
+     138
+    ],
+    [
+     "president prabowo",
+     116
+    ],
+    [
+     "supreme court",
+     100
+    ],
+    [
+     "prabowo subianto",
+     88
+    ],
+    [
+     "indonesian political",
+     74
+    ],
+    [
+     "people consultative",
+     73
+    ],
+    [
+     "consultative assembly",
+     73
+    ],
+    [
+     "political news",
+     73
+    ]
+   ]
+  }
+ },
+ "top_by_platform": {
+  "facebook": [
+   [
+    "political",
+    831
+   ],
+   [
+    "indonesian",
+    647
+   ],
+   [
+    "president",
+    642
+   ],
+   [
+    "vice",
+    557
+   ],
+   [
+    "prabowo",
+    523
+   ],
+   [
+    "news",
+    357
+   ],
+   [
+    "jokowi",
+    293
+   ],
+   [
+    "mpr",
+    290
+   ],
+   [
+    "dpr",
+    282
+   ],
+   [
+    "debate",
+    246
+   ],
+   [
+    "raka",
+    229
+   ],
+   [
+    "diploma",
+    217
+   ],
+   [
+    "court",
+    204
+   ],
+   [
+    "support",
+    197
+   ],
+   [
+    "comments",
+    190
+   ]
+  ],
+  "instagram": [
+   [
+    "political",
+    668
+   ],
+   [
+    "indonesian",
+    650
+   ],
+   [
+    "president",
+    608
+   ],
+   [
+    "vice",
+    530
+   ],
+   [
+    "prabowo",
+    446
+   ],
+   [
+    "mpr",
+    324
+   ],
+   [
+    "news",
+    310
+   ],
+   [
+    "raka",
+    240
+   ],
+   [
+    "court",
+    228
+   ],
+   [
+    "jokowi",
+    215
+   ],
+   [
+    "screen",
+    182
+   ],
+   [
+    "dpr",
+    178
+   ],
+   [
+    "letter",
+    177
+   ],
+   [
+    "constitutional",
+    172
+   ],
+   [
+    "presidential",
+    162
+   ]
+  ],
+  "threads": [
+   [
+    "political",
+    551
+   ],
+   [
+    "president",
+    548
+   ],
+   [
+    "vice",
+    508
+   ],
+   [
+    "indonesian",
+    387
+   ],
+   [
+    "news",
+    278
+   ],
+   [
+    "prabowo",
+    254
+   ],
+   [
+    "mpr",
+    216
+   ],
+   [
+    "raka",
+    212
+   ],
+   [
+    "court",
+    184
+   ],
+   [
+    "letter",
+    138
+   ],
+   [
+    "shares",
+    136
+   ],
+   [
+    "presidential",
+    136
+   ],
+   [
+    "public",
+    127
+   ],
+   [
+    "diploma",
+    123
+   ],
+   [
+    "commentary",
+    115
+   ]
+  ]
+ },
+ "attention_competition": {
+  "groups": {
+   "bencana": {
+    "count": 1,
+    "share_pct": 0.08,
+    "keywords": [
+     "bencana",
+     "banjir",
+     "gempa",
+     "longsor",
+     "erupsi"
+    ]
+   },
+   "harga": {
+    "count": 6,
+    "share_pct": 0.5,
+    "keywords": [
+     "harga",
+     "bbm",
+     "sembako"
+    ]
+   },
+   "ekonomi": {
+    "count": 38,
+    "share_pct": 3.16,
+    "keywords": [
+     "ekonomi",
+     "rupiah",
+     "pengangguran"
+    ]
+   }
+  },
+  "per_platform": {
+   "facebook": {
+    "bencana": {
+     "count": 1,
+     "share_pct": 0.24
+    },
+    "harga": {
+     "count": 4,
+     "share_pct": 0.97
+    },
+    "ekonomi": {
+     "count": 12,
+     "share_pct": 2.91
+    }
+   },
+   "instagram": {
+    "bencana": {
+     "count": 0,
+     "share_pct": 0.0
+    },
+    "harga": {
+     "count": 2,
+     "share_pct": 0.52
+    },
+    "ekonomi": {
+     "count": 17,
+     "share_pct": 4.44
+    }
+   },
+   "threads": {
+    "bencana": {
+     "count": 0,
+     "share_pct": 0.0
+    },
+    "harga": {
+     "count": 0,
+     "share_pct": 0.0
+    },
+    "ekonomi": {
+     "count": 9,
+     "share_pct": 2.22
+    }
+   }
+  },
+  "per_day": {
+   "2026-05-04": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-06": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-08": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-10": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-11": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-12": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-13": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-14": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-15": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-16": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 1
+   },
+   "2026-05-18": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-19": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-20": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-21": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-22": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 1
+   },
+   "2026-05-24": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-25": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-26": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-27": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-28": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-29": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-30": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-05-31": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-09-28": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-09-29": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-09-30": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-02": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-06": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-07": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-08": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-09": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-10": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 1
+   },
+   "2026-10-11": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-12": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-15": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-17": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-19": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-20": {
+    "bencana": 0,
+    "harga": 1,
+    "ekonomi": 0
+   },
+   "2026-10-21": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-22": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-23": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-24": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-25": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-26": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-27": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 1
+   },
+   "2026-10-28": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-29": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-30": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-10-31": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-11-01": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-11-02": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-11-03": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-11-05": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-11-06": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-11-07": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 1
+   },
+   "2026-11-09": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 0
+   },
+   "2026-11-10": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 3
+   },
+   "2026-11-11": {
+    "bencana": 0,
+    "harga": 1,
+    "ekonomi": 3
+   },
+   "2026-11-12": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 12
+   },
+   "2026-11-13": {
+    "bencana": 0,
+    "harga": 1,
+    "ekonomi": 7
+   },
+   "2026-11-14": {
+    "bencana": 1,
+    "harga": 0,
+    "ekonomi": 4
+   },
+   "2026-11-15": {
+    "bencana": 0,
+    "harga": 1,
+    "ekonomi": 3
+   },
+   "2026-11-16": {
+    "bencana": 0,
+    "harga": 2,
+    "ekonomi": 0
+   },
+   "2026-11-17": {
+    "bencana": 0,
+    "harga": 0,
+    "ekonomi": 1
+   }
+  },
+  "any_group": {
+   "count": 44,
+   "share_pct": 3.66
+  }
+ },
+ "prediction": {
+  "method": "Tren linear Holt teredam (alpha 0,5, beta 0,3, phi 0,8) atas agregat harian 10 sampai 17 Nov 2026, pita ketidakpastian 1,96 sigma residual dikali akar horizon, porsi diklip ke rentang 0 sampai 100 dan volume ke minimum 0",
+  "window_dates": [
+   "2026-11-10",
+   "2026-11-11",
+   "2026-11-12",
+   "2026-11-13",
+   "2026-11-14",
+   "2026-11-15",
+   "2026-11-16",
+   "2026-11-17"
+  ],
+  "summary": {
+   "volume": {
+    "history_dates": [
+     "2026-11-10",
+     "2026-11-11",
+     "2026-11-12",
+     "2026-11-13",
+     "2026-11-14",
+     "2026-11-15",
+     "2026-11-16",
+     "2026-11-17"
+    ],
+    "history_values": [
+     128,
+     94,
+     273,
+     131,
+     101,
+     63,
+     79,
+     29
+    ],
+    "day1_projection": 35.95,
+    "day7_projection": 0.0,
+    "day14_projection": 0.0,
+    "residual_sigma": 83.95
+   },
+   "negatif_share_pct": {
+    "history_dates": [
+     "2026-11-10",
+     "2026-11-11",
+     "2026-11-12",
+     "2026-11-13",
+     "2026-11-14",
+     "2026-11-15",
+     "2026-11-16",
+     "2026-11-17"
+    ],
+    "history_values": [
+     40.62,
+     40.43,
+     36.26,
+     32.06,
+     27.72,
+     36.51,
+     16.46,
+     17.24
+    ],
+    "day1_projection": 17.32,
+    "day7_projection": 10.26,
+    "day14_projection": 8.28,
+    "residual_sigma": 6.5
+   },
+   "positif_share_pct": {
+    "history_dates": [
+     "2026-11-10",
+     "2026-11-11",
+     "2026-11-12",
+     "2026-11-13",
+     "2026-11-14",
+     "2026-11-15",
+     "2026-11-16",
+     "2026-11-17"
+    ],
+    "history_values": [
+     14.06,
+     20.21,
+     16.48,
+     18.32,
+     17.82,
+     19.05,
+     13.92,
+     10.34
+    ],
+    "day1_projection": 12.34,
+    "day7_projection": 9.05,
+    "day14_projection": 8.12,
+    "residual_sigma": 2.78
+   }
+  }
+ },
+ "companion_market_reference": {
+  "ihsg_return_event_day_pct": 2.6561,
+  "ihsg_close_event_day": 5250.89502,
+  "eido_return_event_day_pct": 2.5465,
+  "residual_pp": -0.1677,
+  "ma_window_ihsg_pct": -7.1486,
+  "ytd_ihsg_pct": -39.2745
+ }
+}
