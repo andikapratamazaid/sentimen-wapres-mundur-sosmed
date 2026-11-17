@@ -129,6 +129,25 @@ Proyeksi tren Holt teredam 14 hari dengan pita ketidakpastian. Proyeksi
 titik volume mencapai lantai nol sekitar hari ketujuh, sementara pita
 atas tetap di kisaran ratusan: ketidakpastian mendominasi hasil.
 
+## Screenshot Hasil Dashboard
+
+Dua tangkapan layar berikut diambil langsung dari berkas
+`dashboard/sentimen_dashboard.html` yang dirender apa adanya, tanpa
+pengeditan gambar. Seluruh angka yang tampil di dalamnya sama dengan
+angka di tabel Hasil Utama di atas.
+
+![Screenshot dashboard, tampak atas](screenshots/dashboard_tampak_atas.png)
+
+Tampak atas dashboard: 1.201 postingan unik dari 857 pengguna, Facebook
+413, Threads 405, Instagram 383 (TikTok 0), positif 17,07%, negatif
+35,89%, netral 47,04%, dan akurasi mesin 52,5% terhadap label manusia,
+diikuti tabel distribusi sentimen per platform.
+
+![Screenshot dashboard, satu halaman penuh](screenshots/dashboard_satu_halaman.png)
+
+Satu halaman penuh dashboard, memuat seluruh grafik, awan kata, temuan
+dampak, dan modul prediksi dalam satu tampilan.
+
 ## Metode
 
 1. Pengumpulan: layanan pencarian media sosial, 28 panggilan berhasil
