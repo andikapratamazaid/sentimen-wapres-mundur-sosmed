@@ -1,0 +1,36 @@
+indicator,value,unit,type,source
+Perubahan IHSG pada hari pengunduran diri (12 Nov 2026),2.6561,%,computed,Project pendamping MarketShock ID (data pasar Yahoo Finance)
+Level penutupan IHSG 12 Nov 2026,5250.89502,poin,computed,Project pendamping MarketShock ID (data pasar Yahoo Finance)
+Perubahan EIDO (ETF Indonesia di AS) 12 Nov 2026,2.5465,%,computed,Project pendamping MarketShock ID (data pasar Yahoo Finance)
+Perubahan USD/IDR 11 ke 16 Nov 2026 (data Yahoo valid),0.4542,%,computed,Project pendamping MarketShock ID (data pasar Yahoo Finance)
+Perubahan indeks dolar DXY 11 ke 16 Nov 2026,0.6219,%,computed,Project pendamping MarketShock ID (data pasar Yahoo Finance)
+Residu spesifik Indonesia USD/IDR vs DXY (11 ke 16 Nov 2026),-0.1677,poin persen,computed,Project pendamping MarketShock ID (data pasar Yahoo Finance)
+Perubahan IHSG jendela putusan MA (23 Okt ke 6 Nov 2026),-7.1486,%,computed,Project pendamping MarketShock ID (data pasar Yahoo Finance)
+Perubahan IHSG year to date ke 12 Nov 2026,-39.2745,%,computed,Project pendamping MarketShock ID (data pasar Yahoo Finance)
+Perubahan yield US Treasury 10 tahun 12 Nov 2026,10.5,basis poin,computed,Project pendamping MarketShock ID (data pasar Yahoo Finance)
+Perubahan IHSG pada hari usulan HMP (11 Nov 2026),-0.2086,%,computed,Project pendamping MarketShock ID (data pasar Yahoo Finance)
+Total postingan terkumpul setelah dedup,1201,postingan,measured,"Dataset project ini (social.search, dikumpulkan 17 Nov 2026)"
+Postingan terkumpul platform facebook,413,postingan,measured,"Dataset project ini (social.search, dikumpulkan 17 Nov 2026)"
+Postingan terkumpul platform instagram,383,postingan,measured,"Dataset project ini (social.search, dikumpulkan 17 Nov 2026)"
+Postingan terkumpul platform threads,405,postingan,measured,"Dataset project ini (social.search, dikumpulkan 17 Nov 2026)"
+Postingan terkumpul platform tiktok,0,postingan,measured,Dataset project ini (social.search tidak mencakup TikTok)
+Pengguna unik teridentifikasi,857,pengguna,measured,"Dataset project ini (social.search, dikumpulkan 17 Nov 2026)"
+Porsi postingan non-netral (polarisasi keseluruhan),52.96,%,measured,"Dataset project ini (social.search, dikumpulkan 17 Nov 2026)"
+Rasio postingan positif terhadap negatif,0.48,rasio,measured,"Dataset project ini (social.search, dikumpulkan 17 Nov 2026)"
+Akurasi mesin sentimen terhadap label manusia (sampel 120),52.5,%,measured,"Dataset project ini (social.search, dikumpulkan 17 Nov 2026)"
+Postingan yang juga menyebut kelompok isu bencana,1,postingan,measured,"Dataset project ini (social.search, dikumpulkan 17 Nov 2026)"
+Porsi postingan yang juga menyebut kelompok isu bencana,0.08,%,measured,"Dataset project ini (social.search, dikumpulkan 17 Nov 2026)"
+Postingan yang juga menyebut kelompok isu harga,6,postingan,measured,"Dataset project ini (social.search, dikumpulkan 17 Nov 2026)"
+Porsi postingan yang juga menyebut kelompok isu harga,0.5,%,measured,"Dataset project ini (social.search, dikumpulkan 17 Nov 2026)"
+Postingan yang juga menyebut kelompok isu ekonomi,38,postingan,measured,"Dataset project ini (social.search, dikumpulkan 17 Nov 2026)"
+Porsi postingan yang juga menyebut kelompok isu ekonomi,3.16,%,measured,"Dataset project ini (social.search, dikumpulkan 17 Nov 2026)"
+Beli bersih investor asing 12 Nov 2026 (dilaporkan),443.53,Rp miliar,reported,"Kontan, dikutip project pendamping MarketShock ID"
+Jual bersih investor asing year to date ke 12 Nov 2026 (dilaporkan),-127000,Rp miliar,reported,"Kontan, dikutip project pendamping MarketShock ID"
+Yield SBN 10 tahun sekitar 12 Nov 2026 (dilaporkan),7.63,%,reported,"Bareksa, dikutip project pendamping MarketShock ID"
+Kurs spot USD/IDR 12 Nov 2026 (dilaporkan),18216,Rp per USD,reported,"Suara.com, dikutip project pendamping MarketShock ID"
+Jiwa terdampak banjir dan longsor Aceh Tamiang (dilaporkan),18158,jiwa,reported,"BNPB per 15 Nov 2026, via bnpb.go.id dan Indowarta"
+Jiwa mengungsi banjir Aceh Tamiang (dilaporkan),5088,jiwa,reported,"BNPB per 15 Nov 2026, via Indowarta"
+Jiwa terdampak banjir Subulussalam (dilaporkan),7703,jiwa,reported,"BNPB, via Indowarta 17 Nov 2026"
+Jiwa terdampak banjir Langkat 12 Nov 2026 (dilaporkan),3155,jiwa,reported,"BNPB, via Indowarta dan Serayunusantara 13 Nov 2026"
+Magnitudo gempa Laut Banda 17 Nov 2026 setelah pemutakhiran (dilaporkan),6.8,magnitudo,reported,"BMKG, via Ringkasnow dan Politikindonesia 17 Nov 2026"
+Gunung api berstatus Siaga Level III (dilaporkan),3,gunung,reported,"PVMBG per 11 Nov 2026, via BNPB dan Jatimnet"
